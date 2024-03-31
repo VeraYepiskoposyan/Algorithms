@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DataSearch", "DataSearch.vcxproj", "{23F4FC4C-A768-4841-B423-73126349B8BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		clean|x64 = clean|x64
+		clean|x86 = clean|x86
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23F4FC4C-A768-4841-B423-73126349B8BF}.clean|x64.ActiveCfg = clean|x64
+		{23F4FC4C-A768-4841-B423-73126349B8BF}.clean|x86.ActiveCfg = clean|Win32
+		{23F4FC4C-A768-4841-B423-73126349B8BF}.clean|x86.Build.0 = clean|Win32
+		{23F4FC4C-A768-4841-B423-73126349B8BF}.Debug|x64.ActiveCfg = Debug|x64
+		{23F4FC4C-A768-4841-B423-73126349B8BF}.Debug|x64.Build.0 = Debug|x64
+		{23F4FC4C-A768-4841-B423-73126349B8BF}.Debug|x86.ActiveCfg = Debug|Win32
+		{23F4FC4C-A768-4841-B423-73126349B8BF}.Debug|x86.Build.0 = Debug|Win32
+		{23F4FC4C-A768-4841-B423-73126349B8BF}.Release|x64.ActiveCfg = Release|x64
+		{23F4FC4C-A768-4841-B423-73126349B8BF}.Release|x64.Build.0 = Release|x64
+		{23F4FC4C-A768-4841-B423-73126349B8BF}.Release|x86.ActiveCfg = Release|Win32
+		{23F4FC4C-A768-4841-B423-73126349B8BF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E91CA175-B584-483A-A8B1-9E2065C209D2}
+	EndGlobalSection
+EndGlobal
